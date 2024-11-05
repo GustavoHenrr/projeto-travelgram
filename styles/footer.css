@@ -2,6 +2,8 @@ footer {
   display: flex;
   gap: 24px;
   padding-block: 24px;
+
+  font: 14px/150% var(--font-family);
 }
 
 /* filho de numero 1 // contagem dos filho que tem numa caixa */
